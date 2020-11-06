@@ -6,5 +6,8 @@ indent_style = spaces
 indent_size = 2
 end_of_line = lf
 charset = utf-8
+# Aparar espaço em branco a direita
 trim_trailing_witespace = true
+
+#inserir nova linha ao final 
 insert_final_newline = true
